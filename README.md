@@ -1,8 +1,8 @@
 # F-Pyproject
 Python code for statistical analysis
 
-CONTOH PYTHON CODE DALAM MENGANALISIS DATA DENGAN BERBAGAI METODE ANALISIS
-DATASET YANG DIGUNAKAN SPESIFIK DAN HANYA DIGUNAKAN UNTUK KEPENTINGAN ANALISIS SEMATA
-MUNGKIN AKAN DIPERLUKAN PROSES DATA CLEANING TERLEBIH DAHULU PADA BEBERAPA KONDISI DATASET LAIN
+Repository ini berisi Python code yang digunakan untuk menganalisis data dengan berbagai metode statistika 
+Metode yang digunakan dikelompokkan dalam folder
 
-CODE INI DIBUAT HANYA UNTUK KEPENTINGAN PRIBADI AGAR MUDAH DIAKSES DAN DIPELAJARI MANAKALA DIBUTUHKAN
+Disclaimer: Dataset ada yang bersifat spesifik (tidak ditampilkan) dan hanya digunakan untuk kepentingan analisis semata
+Code ini dibuat hanya untuk tujuan pribadi agar mudah diakses dan dipelajari manakala dibutuhkan
